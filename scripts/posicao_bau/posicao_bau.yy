@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"posicao_bau",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"posicao_bau",
+  "parent":{
+    "name":"scr_bau",
+    "path":"folders/Scripts/scr_bau.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

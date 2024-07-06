@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_raposa_escolher_estado",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_raposa_escolher_estado",
+  "parent":{
+    "name":"scr_raposa",
+    "path":"folders/Scripts/scr_raposa.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

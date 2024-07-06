@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Raposa_andando",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Raposa_andando",
+  "parent":{
+    "name":"scr_raposa",
+    "path":"folders/Scripts/scr_raposa.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,3 @@
+//Ataque
+//"B" do NES
+
