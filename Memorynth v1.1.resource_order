@@ -13,8 +13,16 @@
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"Objetos","order":1,"path":"folders/Sprites/Objetos.yy",},
+    {"name":"Baú","order":1,"path":"folders/Sprites/Objetos/Baú.yy",},
+    {"name":"Inventário","order":3,"path":"folders/Sprites/Objetos/Inventário.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"spr_arma","order":1,"path":"sprites/spr_arma/spr_arma.yy",},
+    {"name":"spr_bau_aberto","order":1,"path":"sprites/spr_bau_aberto/spr_bau_aberto.yy",},
+    {"name":"spr_inventario","order":2,"path":"sprites/spr_inventario/spr_inventario.yy",},
+    {"name":"spr_select_inventario","order":3,"path":"sprites/spr_select_inventario/spr_select_inventario.yy",},
+  ],
 }
