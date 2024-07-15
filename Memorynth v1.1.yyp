@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -53,6 +53,8 @@
     {"id":{"name":"obj_bau","path":"objects/obj_bau/obj_bau.yy",},},
     {"id":{"name":"obj_plyr","path":"objects/obj_plyr/obj_plyr.yy",},},
     {"id":{"name":"obj_text","path":"objects/obj_text/obj_text.yy",},},
+    {"id":{"name":"Carta1","path":"rooms/Carta1/Carta1.yy",},},
+    {"id":{"name":"Fome","path":"rooms/Fome/Fome.yy",},},
     {"id":{"name":"Labirinto","path":"rooms/Labirinto/Labirinto.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"Settings","path":"rooms/Settings/Settings.yy",},},
@@ -99,9 +101,11 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Labirinto","path":"rooms/Labirinto/Labirinto.yy",},},
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"Settings","path":"rooms/Settings/Settings.yy",},},
-    {"roomId":{"name":"Labirinto","path":"rooms/Labirinto/Labirinto.yy",},},
+    {"roomId":{"name":"Carta1","path":"rooms/Carta1/Carta1.yy",},},
+    {"roomId":{"name":"Fome","path":"rooms/Fome/Fome.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
