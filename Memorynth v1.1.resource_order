@@ -27,6 +27,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"obj_bau","order":2,"path":"objects/obj_bau/obj_bau.yy",},
+    {"name":"obj_GUI","order":1,"path":"objects/obj_GUI/obj_GUI.yy",},
     {"name":"Menu","order":1,"path":"rooms/Menu/Menu.yy",},
     {"name":"Settings","order":2,"path":"rooms/Settings/Settings.yy",},
     {"name":"spr_arma","order":1,"path":"sprites/spr_arma/spr_arma.yy",},

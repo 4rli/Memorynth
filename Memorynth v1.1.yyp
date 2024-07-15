@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -51,6 +51,7 @@
   "name":"Memorynth v1.1",
   "resources":[
     {"id":{"name":"obj_bau","path":"objects/obj_bau/obj_bau.yy",},},
+    {"id":{"name":"obj_GUI","path":"objects/obj_GUI/obj_GUI.yy",},},
     {"id":{"name":"obj_plyr","path":"objects/obj_plyr/obj_plyr.yy",},},
     {"id":{"name":"obj_text","path":"objects/obj_text/obj_text.yy",},},
     {"id":{"name":"Labirinto","path":"rooms/Labirinto/Labirinto.yy",},},
@@ -99,9 +100,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Labirinto","path":"rooms/Labirinto/Labirinto.yy",},},
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"Settings","path":"rooms/Settings/Settings.yy",},},
-    {"roomId":{"name":"Labirinto","path":"rooms/Labirinto/Labirinto.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
