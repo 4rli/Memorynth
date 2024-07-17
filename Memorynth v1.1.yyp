@@ -37,6 +37,7 @@
     {"$GMFolder":"","%Name":"Player Tiro","folderPath":"folders/Sprites/Player/Ataques/Player Tiro.yy","name":"Player Tiro","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Player andando","folderPath":"folders/Sprites/Player/Player andando.yy","name":"Player andando","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Player idle","folderPath":"folders/Sprites/Player/Player idle.yy","name":"Player idle","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Raposa","folderPath":"folders/Sprites/Raposa.yy","name":"Raposa","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Sprites/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Cutscenes","folderPath":"folders/Sprites/Rooms/Cutscenes.yy","name":"Cutscenes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -52,6 +53,7 @@
   "resources":[
     {"id":{"name":"obj_bau","path":"objects/obj_bau/obj_bau.yy",},},
     {"id":{"name":"obj_plyr","path":"objects/obj_plyr/obj_plyr.yy",},},
+    {"id":{"name":"obj_raposa","path":"objects/obj_raposa/obj_raposa.yy",},},
     {"id":{"name":"obj_text","path":"objects/obj_text/obj_text.yy",},},
     {"id":{"name":"Carta1","path":"rooms/Carta1/Carta1.yy",},},
     {"id":{"name":"Fome","path":"rooms/Fome/Fome.yy",},},
@@ -96,6 +98,7 @@
     {"id":{"name":"spr_UI_faca_r","path":"sprites/spr_UI_faca_r/spr_UI_faca_r.yy",},},
     {"id":{"name":"spr_UI_faca_u","path":"sprites/spr_UI_faca_u/spr_UI_faca_u.yy",},},
     {"id":{"name":"spr_UI_settings","path":"sprites/spr_UI_settings/spr_UI_settings.yy",},},
+    {"id":{"name":"sprite_hold","path":"sprites/sprite_hold/sprite_hold.yy",},},
     {"id":{"name":"srt_plyr_idle_u","path":"sprites/srt_plyr_idle_u/srt_plyr_idle_u.yy",},},
   ],
   "resourceType":"GMProject",
