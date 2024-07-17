@@ -1,8 +1,8 @@
 draw_sprite_ext(spr_inventario, image_index, 1024, 0, 4, 4, 0, c_white,1);
 
-if (global.arma = 1)
+if (global.gun = 1)
 {
-	draw_sprite_ext(spr_arma,image_index, 1024, 0, 4, 4, 0, c_white, 1);
+	draw_sprite_ext(spr_gun,image_index, 1024, 0, 4, 4, 0, c_white, 1);
 }
 
 if (global.faca = 1)
