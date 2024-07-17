@@ -60,6 +60,7 @@
     {"id":{"name":"Labirinto","path":"rooms/Labirinto/Labirinto.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"Settings","path":"rooms/Settings/Settings.yy",},},
+    {"id":{"name":"snd_steps","path":"sounds/snd_steps/snd_steps.yy",},},
     {"id":{"name":"spr_arma","path":"sprites/spr_arma/spr_arma.yy",},},
     {"id":{"name":"spr_bau_aberto","path":"sprites/spr_bau_aberto/spr_bau_aberto.yy",},},
     {"id":{"name":"spr_bau_fechado","path":"sprites/spr_bau_fechado/spr_bau_fechado.yy",},},
